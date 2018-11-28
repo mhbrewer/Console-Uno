@@ -1,0 +1,11 @@
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\bin\Debug\netcoreapp2.1\Uno.deps.json
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\bin\Debug\netcoreapp2.1\Uno.runtimeconfig.json
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\bin\Debug\netcoreapp2.1\Uno.runtimeconfig.dev.json
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\bin\Debug\netcoreapp2.1\Uno.dll
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\bin\Debug\netcoreapp2.1\Uno.pdb
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\obj\Debug\netcoreapp2.1\Uno.csprojAssemblyReference.cache
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\obj\Debug\netcoreapp2.1\Uno.csproj.CoreCompileInputs.cache
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\obj\Debug\netcoreapp2.1\Uno.AssemblyInfoInputs.cache
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\obj\Debug\netcoreapp2.1\Uno.AssemblyInfo.cs
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\obj\Debug\netcoreapp2.1\Uno.dll
+C:\Users\mhbre\Documents\Programming\CodingDojo\cSharpStack\Hackathon\Uno\obj\Debug\netcoreapp2.1\Uno.pdb
